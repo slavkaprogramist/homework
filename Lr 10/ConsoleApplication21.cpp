@@ -24,6 +24,7 @@ int main()
 			C[i] = Barr[i];
 		}
 	}
+	cout <<"MIn Element"<<endl;
 	cout << "MAX ELEMENT" << endl;
 	arr_print(C, N);
 }
