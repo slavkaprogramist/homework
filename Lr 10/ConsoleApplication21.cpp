@@ -5,7 +5,8 @@ void arr_ini(int Arr[], const int size);
 void arr_print(int Arr[], const int size);
 int main()
 {
-	const int N = 4;
+	int b,a;
+
 	int Arr[N];
 	int Barr[N];
 	int C[N];
